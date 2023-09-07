@@ -1,4 +1,4 @@
-// yaha pe schema bana rahe hai.. jo ki hm insert krnge database mein...(database k andr me kch to insert krna hga na....to ye schema bana rhe hai insert hone wala )
+// yaha pe schema bana rahe hai.. jo ki hm insert krnge database mein...(database k andr me kch to insert krna hga na....to ye schema bana rhe hai insert hone wala)
 const mongoose = require("mongoose");
 
 const todoSchema = new mongoose.Schema({
